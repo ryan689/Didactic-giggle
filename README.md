@@ -1,2 +1,2 @@
 # Didactic-giggle
-# Let's doit!
+# Let's do it!
