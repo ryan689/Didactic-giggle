@@ -7,16 +7,17 @@ You'll need functions to check if the user input is an actual number, to see the
 inputted number and the randomly generated numbers, and to then compare the numbers.
 '''
 
+
 def is_number(user_input):
-  return None
+    return None
 
 
 def diff_between(randomly_generated_number, inputted_number):
-  return None
+    return None
 
 
 def compare_numbers(randomly_generated_number, inputted_number):
-  return None
+    return None
 
 
 # 1) Randomly generate a number unknown to the user
