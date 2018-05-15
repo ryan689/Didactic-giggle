@@ -11,11 +11,11 @@ def is_number(user_input):
   return None
 
 
-def diff_between(inputted_number, randomly_generated_number):
+def diff_between(randomly_generated_number, inputted_number):
   return None
 
 
-def compare_numbers(inputted_number, randomly_generated_number):
+def compare_numbers(randomly_generated_number, inputted_number):
   return None
 
 
