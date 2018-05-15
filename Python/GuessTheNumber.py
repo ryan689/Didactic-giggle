@@ -22,8 +22,12 @@ def compare_numbers(randomly_generated_number, inputted_number):
 
 # 1) Randomly generate a number unknown to the user
 
+
 # 2) User should guess what that number is
+
 
 # 3) If guess is wrong, let them know too high / too low
 
+
 # 4) If guess is correct, let them know
+
