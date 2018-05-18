@@ -8,7 +8,7 @@ inputted number and the randomly generated numbers, and to then compare the numb
 '''
 
 
-# Hey Mike
+# Hey Mike again it's me! 5 + 9 is not 49
 
 
 def is_number(user_input):
