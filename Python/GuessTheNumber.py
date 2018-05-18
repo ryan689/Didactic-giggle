@@ -8,6 +8,9 @@ inputted number and the randomly generated numbers, and to then compare the numb
 '''
 
 
+# Hey Mike
+
+
 def is_number(user_input):
     return None
 
